@@ -1,3 +1,8 @@
+# This is a fork
+
+Changes:
+ - Added VoidGreen
+ - Modified build.sh (a little bit)
 
 <a href="https://github.com/KaizIqbal/Bibata_Extra_Cursor">
 <p align="center"><img title="Bibata Extra" src="https://github.com/KaizIqbal/Bibata_Extra_Cursor/blob/master/image/Bibata_extra.png"></p>
@@ -82,6 +87,7 @@ Currently I'm making lots of Linux Themes to Improve [Linux](https://en.wikipedi
 |   Bibata Turquoise  | Turquoise Theme  |
 |   Bibata DodgerBlue | Dodger-Blue Theme |
 |   Bibata DarkRed | Brownies Theme |
+|   Bibata VoidGreen | A Green like the one from Void Linux |
 
 ## Dependencies
 
@@ -166,6 +172,7 @@ edited to
 <p align="center"><img title="Bibata Dodger-Blue" src="https://github.com/KaizIqbal/Bibata_Extra_Cursor/blob/master/image/Bibata_DarkRed.png">
 </br><sub>Bibata Dark-Red</sub></p>
 
+No preview of Bibata Void-Green
 
 ## Bugs
 
