@@ -268,6 +268,5 @@ if ! [ -e "$OUTPUT/$CURSOR" ] ; then
 fi
 echo -e "\033[0KCopying Theme Index... DONE"
 
-echo "install the theme manually or with ./install.sh"
 echo "COMPLETE!"
 exit 0
