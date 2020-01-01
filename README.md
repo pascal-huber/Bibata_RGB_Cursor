@@ -23,16 +23,14 @@ any name and any color. There are also some predefined themes. See `./build.sh
 
 In this example we will create a salmon-colored cursor theme.
 
-1. Make sure you have installed all [Build dependencies](#build-dependencies).
-
-2. Build
+1. Build
    ```shell
    git clone https://github.com/SirPscl/Bibata_Cursor_RGB.git
    cd Bibata_Cursor_RGB/
    ./build.sh -n Bibata_Salmon -c "#fa8072"
    ```
 
-3. Install for current user. Settings may be different for your desktop environment, window manager.
+2. Install for current user. Settings may be different for your desktop environment, window manager.
    ```shell
    mkdir -p ~/.icons/default/
    cp -r Bibata_Salmon ~/.icons/
